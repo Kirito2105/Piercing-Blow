@@ -1,0 +1,512 @@
+<RankUpData>
+  <Rank Id="0" Title="Trainee" ToNextLevel="1200" RequiredExp="0">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10309410</Item>
+        <Item>70003008</Item>
+        <Item>110000408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="1" Title="Private Rank 1" ToNextLevel="2400" RequiredExp="1200">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10309410</Item>
+        <Item>70003008</Item>
+        <Item>110000408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="2" Title="Private Rank 2" ToNextLevel="3700" RequiredExp="3600">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10403810</Item>
+        <Item>70003108</Item>
+        <Item>110002708</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="3" Title="Private Rank 3" ToNextLevel="4900" RequiredExp="7300">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10601210</Item>
+        <Item>70003208</Item>
+        <Item>110001708</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="4" Title="Private First Class Rank 1" ToNextLevel="6200" RequiredExp="12200">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10501710</Item>
+        <Item>70003308</Item>
+        <Item>110001508</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="5" Title="Private First Class Rank 2" ToNextLevel="7000" RequiredExp="18400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10303908</Item>
+        <Item>70003908</Item>
+        <Item>110002008</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="6" Title="Private First Class Rank 3" ToNextLevel="8000" RequiredExp="25400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10305108</Item>
+        <Item>70003508</Item>
+        <Item>110000108</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="7" Title="Corporal Rank 1" ToNextLevel="9000" RequiredExp="33400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>20201208</Item>
+        <Item>70003608</Item>
+        <Item>110002608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="8" Title="Corporal Rank 2" ToNextLevel="11000" RequiredExp="42400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10305708</Item>
+        <Item>80000208</Item>
+        <Item>110001608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="9" Title="Corporal Rank 3" ToNextLevel="12000" RequiredExp="53400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>20202310</Item>
+        <Item>80000808</Item>
+        <Item>110002908</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="10" Title="Sergeant Rank 1" ToNextLevel="13000" RequiredExp="65400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10310208</Item>
+        <Item>80000908</Item>
+        <Item>110000608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="11" Title="Sergeant Rank 2" ToNextLevel="15000" RequiredExp="78400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10305008</Item>
+        <Item>80001008</Item>
+        <Item>110001908</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="12" Title="Sergeant Rank 3" ToNextLevel="22000" RequiredExp="93400">
+    <Reward Points="10000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10501108</Item>
+        <Item>80001108</Item>
+        <Item>110001808</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="13" Title="Staff Sergeant Rank 1" ToNextLevel="24000" RequiredExp="115400">
+    <Reward Points="20000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>11800910</Item>
+        <Item>80001208</Item>
+        <Item>110002808</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="14" Title="Staff Sergeant Rank 2" ToNextLevel="26000" RequiredExp="139400">
+    <Reward Points="30000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>11000410</Item>
+        <Item>80002008</Item>
+        <Item>100000408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="15" Title="Staff Sergeant Rank 3" ToNextLevel="37000" RequiredExp="165400">
+    <Reward Points="30000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10305310</Item>
+        <Item>80002408</Item>
+        <Item>100000908</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="16" Title="Sergeant First Class Rank 1" ToNextLevel="40000" RequiredExp="202400">
+    <Reward Points="50000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10503410</Item>
+        <Item>80003708</Item>
+        <Item>100002808</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="17" Title="Sergeant First Class Rank 2" ToNextLevel="43000" RequiredExp="242400">
+    <Reward Points="40000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10502008</Item>
+        <Item>80000108</Item>
+        <Item>90003608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="18" Title="Sergeant First Class Rank 3" ToNextLevel="52000" RequiredExp="285400">
+    <Reward Points="40000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10502208</Item>
+        <Item>80000608</Item>
+        <Item>100001008</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="19" Title="Master Sergeant Rank 1" ToNextLevel="56000" RequiredExp="337400">
+    <Reward Points="100000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10502208</Item>
+        <Item>80001408</Item>
+        <Item>90001408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="20" Title="Master Sergeant Rank 2" ToNextLevel="60000" RequiredExp="393400">
+    <Reward Points="50000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>10601108</Item>
+        <Item>80002808</Item>
+        <Item>90003408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="21" Title="Master Sergeant Rank 3" ToNextLevel="91000" RequiredExp="453400">
+    <Reward Points="50000">
+      <Items>
+        <Item>200010051</Item>
+        <Item>21400610</Item>
+        <Item>80000508</Item>
+        <Item>100002708</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="22" Title="Second Lieutenant Rank 1" ToNextLevel="97000" RequiredExp="544400">
+    <Reward Points="14000">
+      <Items>
+        <Item>200014051</Item>
+        <Item>21400508</Item>
+        <Item>80000708</Item>
+        <Item>90003508</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="23" Title="Second Lieutenant Rank 2" ToNextLevel="104000" RequiredExp="641400">
+    <Reward Points="14000">
+      <Items>
+        <Item>200014051</Item>
+        <Item>21400708</Item>
+        <Item>80001308</Item>
+        <Item>100000108</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="24" Title="Second Lieutenant Rank 3" ToNextLevel="110000" RequiredExp="745400">
+    <Reward Points="14000">
+      <Items>
+        <Item>200014051</Item>
+        <Item>21300308</Item>
+        <Item>80003408</Item>
+        <Item>100002308</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="25" Title="Second Lieutenant Rank 4" ToNextLevel="139000" RequiredExp="855400">
+    <Reward Points="14000">
+      <Items>
+        <Item>200014051</Item>
+        <Item>20201510</Item>
+        <Item>80001908</Item>
+        <Item>90002808</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="26" Title="Lieutenant Rank 1" ToNextLevel="147000" RequiredExp="994400">
+    <Reward Points="0">
+      <Items>
+        <Item>200016051</Item>
+        <Item>30101108</Item>
+        <Item>80003508</Item>
+        <Item>90003708</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="27" Title="Lieutenant Rank 2" ToNextLevel="156000" RequiredExp="1141400">
+    <Reward Points="0">
+      <Items>
+        <Item>200016051</Item>
+        <Item>30101810</Item>
+        <Item>120000108</Item>
+        <Item>90000208</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="28" Title="Lieutenant Rank 3" ToNextLevel="165000" RequiredExp="1297400">
+    <Reward Points="0">
+      <Items>
+        <Item>200016051</Item>
+        <Item>31500308</Item>
+        <Item>120001108</Item>
+        <Item>100003608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="29" Title="Lieutenant Rank 4" ToNextLevel="187000" RequiredExp="1462400">
+    <Reward Points="0">
+      <Items>
+        <Item>200016051</Item>
+        <Item>30101408</Item>
+        <Item>120001608</Item>
+        <Item>90004508</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="30" Title="Captain Rank 1" ToNextLevel="198000" RequiredExp="1649400">
+    <Reward Points="0">
+      <Items>
+        <Item>200018051</Item>
+        <Item>30102110</Item>
+        <Item>120000208</Item>
+        <Item>100003508</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="31" Title="Captain Rank 2" ToNextLevel="208000" RequiredExp="1847400">
+    <Reward Points="0">
+      <Items>
+        <Item>200018051</Item>
+        <Item>30101210</Item>
+        <Item>120001808</Item>
+        <Item>90004408</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="32" Title="Captain Rank 3" ToNextLevel="219000" RequiredExp="2055400">
+    <Reward Points="0">
+      <Items>
+        <Item>200018051</Item>
+        <Item>40700308</Item>
+        <Item>120001308</Item>
+        <Item>100001608</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="33" Title="Captain Rank 4" ToNextLevel="274000" RequiredExp="2274400">
+    <Reward Points="0">
+      <Items>
+        <Item>200018051</Item>
+        <Item>52700308</Item>
+        <Item>120001408</Item>
+        <Item>90001208</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="34" Title="Major Rank 1" ToNextLevel="288000" RequiredExp="2548400">
+    <Reward Points="0">
+      <Items>
+        <Item>200020051</Item>
+        <Item>120001708</Item>
+        <Item>100002908</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="35" Title="Major Rank 2" ToNextLevel="302000" RequiredExp="2836400">
+    <Reward Points="0">
+      <Items>
+        <Item>200020051</Item>
+        <Item>120001508</Item>
+        <Item>90003808</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="36" Title="Major Rank 3" ToNextLevel="316000" RequiredExp="3138400">
+    <Reward Points="0">
+      <Items>
+        <Item>200020051</Item>
+        <Item>130001108</Item>
+        <Item>100003208</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="37" Title="Major Rank 4" ToNextLevel="389000" RequiredExp="3454400">
+    <Reward Points="0">
+      <Items>
+        <Item>200020051</Item>
+        <Item>130001708</Item>
+        <Item>90004108</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="38" Title="Lieutenant Major Rank 1" ToNextLevel="408000" RequiredExp="3843400">
+    <Reward Points="0">
+      <Items>
+        <Item>200022051</Item>
+        <Item>130000108</Item>
+        <Item>100003408</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="39" Title="Lieutenant Major Rank 2" ToNextLevel="427000" RequiredExp="4251400">
+    <Reward Points="0">
+      <Items>
+        <Item>200022051</Item>
+        <Item>130000208</Item>
+        <Item>90004308</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="40" Title="Lieutenant Major Rank 3" ToNextLevel="446000" RequiredExp="4678400">
+    <Reward Points="0">
+      <Items>
+        <Item>200022051</Item>
+        <Item>130001508</Item>
+        <Item>100003108</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="41" Title="Lieutenant Major Rank 4" ToNextLevel="505000" RequiredExp="5124400">
+    <Reward Points="0">
+      <Items>
+        <Item>200022051</Item>
+        <Item>130001208</Item>
+        <Item>90004008</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="42" Title="Colonel Rank 1" ToNextLevel="529000" RequiredExp="5629400">
+    <Reward Points="0">
+      <Items>
+        <Item>200024051</Item>
+        <Item>130001608</Item>
+        <Item>100003308</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="43" Title="Colonel Rank 2" ToNextLevel="552000" RequiredExp="6158400">
+    <Reward Points="0">
+      <Items>
+        <Item>200024051</Item>
+        <Item>130001408</Item>
+        <Item>90004208</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="44" Title="Colonel Rank 3" ToNextLevel="575000" RequiredExp="6710400">
+    <Reward Points="0">
+      <Items>
+        <Item>200024051</Item>
+        <Item>130001308</Item>
+        <Item>100003008</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="45" Title="Colonel Rank 4" ToNextLevel="884000" RequiredExp="7285400">
+    <Reward Points="0">
+      <Items>
+        <Item>200024051</Item>
+        <Item>130001808</Item>
+        <Item>90003908</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="46" Title="Brigadier General" ToNextLevel="0" RequiredExp="0">
+    <Reward Points="0">
+      <Items>
+        <Item>200028051</Item>
+        <Item>180012165</Item>
+        <Item>10305810</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="47" Title="Major General" ToNextLevel="0" RequiredExp="0">
+    <Reward Points="0">
+      <Items>
+        <Item>200032051</Item>
+        <Item>180012165</Item>
+        <Item>10304510</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="48" Title="Lieutenant General" ToNextLevel="0" RequiredExp="0">
+    <Reward Points="0">
+      <Items>
+        <Item>200036051</Item>
+        <Item>180012165</Item>
+        <Item>10309608</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="49" Title="General" ToNextLevel="0" RequiredExp="0">
+    <Reward Points="0">
+      <Items>
+        <Item>200040051</Item>
+        <Item>180012165</Item>
+        <Item>10305210</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+  <Rank Id="50" Title="General of the Army" ToNextLevel="0" RequiredExp="0">
+    <Reward Points="0">
+      <Items>
+        <Item>200060051</Item>
+        <Item>180012165</Item>
+        <Item>10503021</Item>
+        <Item>0</Item>
+      </Items>
+    </Reward>
+  </Rank>
+</RankUpData>

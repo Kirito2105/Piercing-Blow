@@ -1,0 +1,6 @@
+<Settings>
+<IPAddress>127.0.0.1</IPAddress>
+<Port>39191</Port>
+<MaxConnectionsCount>5000</MaxConnectionsCount>
+<Type>S_CHANNEL_TYPE_EXPERT</Type>
+</Settings>

@@ -1,0 +1,6 @@
+<Settings>
+<IPAddress>192.168.0.28</IPAddress>
+<Port>39191</Port>
+<MaxConnectionsCount>5000</MaxConnectionsCount>
+<Type>4</Type>
+</Settings>

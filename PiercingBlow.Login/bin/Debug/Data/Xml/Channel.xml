@@ -1,0 +1,22 @@
+<ChannelData>
+<Channel Id = "0" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "1" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "2" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "3" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "4" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "5" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "6" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "7" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "8" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+<Channel Id = "9" Type="CHANNEL_TYPE_NORMAL" MaxPlayer="300">
+</Channel>
+</ChannelData>

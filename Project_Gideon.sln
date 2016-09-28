@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiercingBlow.Login", "PiercingBlow.Login\PiercingBlow.Login.csproj", "{FF165FB9-EA9B-40FE-A98E-09E7C5C89A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiercingBlow.Commons", "PiercingBlow.Commons\PiercingBlow.Commons.csproj", "{3AAAB6E5-C2AE-410D-9B0E-3793DFDE5DD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiercingBlow.Cached", "PiercingBlow.Cached\PiercingBlow.Cached.csproj", "{5A912406-F7D2-47A4-80DD-F20DB99F5980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiercingBlow.Game", "PiercingBlow.Game\PiercingBlow.Game.csproj", "{12BA9C61-AEC7-47E6-8A72-B06D9D0B9B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiercingBlow.ConfigEditor", "PiercingBlow.ConfigEditor\PiercingBlow.ConfigEditor.csproj", "{B2974455-322E-4D74-A47E-DBBB6C1780A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF165FB9-EA9B-40FE-A98E-09E7C5C89A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF165FB9-EA9B-40FE-A98E-09E7C5C89A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF165FB9-EA9B-40FE-A98E-09E7C5C89A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF165FB9-EA9B-40FE-A98E-09E7C5C89A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAAB6E5-C2AE-410D-9B0E-3793DFDE5DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAAB6E5-C2AE-410D-9B0E-3793DFDE5DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAAB6E5-C2AE-410D-9B0E-3793DFDE5DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAAB6E5-C2AE-410D-9B0E-3793DFDE5DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A912406-F7D2-47A4-80DD-F20DB99F5980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A912406-F7D2-47A4-80DD-F20DB99F5980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A912406-F7D2-47A4-80DD-F20DB99F5980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A912406-F7D2-47A4-80DD-F20DB99F5980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12BA9C61-AEC7-47E6-8A72-B06D9D0B9B78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12BA9C61-AEC7-47E6-8A72-B06D9D0B9B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12BA9C61-AEC7-47E6-8A72-B06D9D0B9B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12BA9C61-AEC7-47E6-8A72-B06D9D0B9B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2974455-322E-4D74-A47E-DBBB6C1780A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2974455-322E-4D74-A47E-DBBB6C1780A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2974455-322E-4D74-A47E-DBBB6C1780A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2974455-322E-4D74-A47E-DBBB6C1780A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+<Settings>
+<Host>192.168.0.28</Host>
+<Port>39190</Port>
+<MaxConnectionsCount>5000</MaxConnectionsCount>
+</Settings>
