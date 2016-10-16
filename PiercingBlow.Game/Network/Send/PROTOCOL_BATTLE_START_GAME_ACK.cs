@@ -13,31 +13,29 @@ namespace PiercingBlow.Game.Network.Send
         }
         public override void WriteImpl()
         {
-            WriteB(new byte[] {
-                0x00, 0x00,
-                0x01,
-                0x00,
-                0xab, 0x2b, 0x09, 0x00,
-                0x5c, 0x92, 0x01, 0x00,
-                0x13, 0x15, 0x03, 0x00,
-                0xc9, 0x97, 0x04, 0x00,
-                0xd9, 0x35, 0x06, 0x00,
-                0x61, 0xc0, 0x07, 0x00,
-                0xab, 0x2b, 0x09, 0x00,
-                0x60, 0x78, 0xa5, 0x3b,
-                0x00, 0xff, 0xa6, 0x3b,
-                0xa0, 0x85, 0xa8, 0x3b,
-                0x40, 0x0c, 0xaa, 0x3b,
-                0xe0, 0x92, 0xab, 0x3b,
-                0x80, 0x19, 0xad, 0x3b,
-                0x20, 0xa0, 0xae, 0x3b,
-                0xc0, 0x26, 0xb0, 0x3b,
-                0x00, 0x00, 0x00, 0x00,
-                0x64, 0x64, 0x64, 0x64, 0x64,
-                0x00, 0x00, 0x00, 0x01,
-                0x00, 0x03, 0xff, 0x01, 0x01, 0x00,
-                0x01, 0x00, 0x02, 0x04
-        });
+            WriteH(0);
+            WriteC(1);
+            WriteC(0);
+            WriteD(_chara.Character_Id);
+            WriteD(_chara.WEAPON_PRIMARY);
+            WriteD(_chara.WEAPON_SECONDARY);
+            WriteD(_chara.WEAPON_MELEE);
+            WriteD(_chara.WEAPON_THROWING);
+            WriteD(_chara.WEAPON_SPECIAL);
+            WriteD(_chara.Character_Id);
+            WriteD(_chara.Character_Head);
+            WriteD(_chara.Character_Face);
+            WriteD(_chara.Character_Jacket);
+            WriteD(_chara.Character_Poket);
+            WriteD(_chara.Character_Glove);
+            WriteD(_chara.Character_Belt);
+            WriteD(_chara.Character_Holster);
+            WriteD(_chara.Character_Skin);
+            WriteD(_chara.Character_Beret);
+            WriteB(new byte[] { 0x64, 0x64, 0x64, 0x64, 0x64 });
+            WriteD(1);
+            WriteB(new byte[] { 0x00, 0x03, 0xff, 0x01, 0x01, 0x00 });
+            WriteB(new byte[] { 0x01, 0x00, 0x02, 0x04 });
         }
     }
 }
